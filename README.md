@@ -2,4 +2,4 @@
 
 Ez egy teszt sor.
 
-Ez egy újabb sor.
+Ez újabb sor.
